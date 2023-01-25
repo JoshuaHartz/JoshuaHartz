@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoshuaHartz
 - 👀 I’m interested in ... Java, Computer science, gaming, surfing
-- 🌱 I’m currently learning ... Data Structures and algorithms in Java
+- 🌱 I’m currently learning ... Assembly, and CyberSecurity
 - 📫 How to reach me ... email: jehartzfeld02@gmail.com
 
 <!---
